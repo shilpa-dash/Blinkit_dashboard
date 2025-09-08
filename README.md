@@ -44,7 +44,7 @@ The dataset includes retail sales data with the following attributes:
 ---
 
 ## 📸 Dashboard Preview  
-![Blinkit Sales Dashboard](images/blinkitDashboard__snapshot.png)  
+![Blinkit Sales Dashboard](blinkitDashboard__snapshot.png)  
 
 ## 🎯 Key Insights
 - Total Sales: $1.20M across 8,523 items with Avg. Rating of 3.9
