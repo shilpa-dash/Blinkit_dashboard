@@ -67,7 +67,8 @@ The dataset includes retail sales data with the following attributes:
 
 ## 👩‍💻 Author
 
-Shilpa Dash
-📧 dashshilpa966@gmail.com
-💼 https://www.linkedin.com/in/shilpa-dash-7a80a0223/
-🖥 https://github.com/shilpa-dash
+## 👩‍💻 Author  
+**Shilpa Dash**  
+- 📧 [Email](dashshilpa966@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shilpadash)  
+- 🖥 [GitHub](https://github.com/shilpa-dash) 
